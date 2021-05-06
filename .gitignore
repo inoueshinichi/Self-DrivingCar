@@ -1,0 +1,14 @@
+# Directory
+.vscode/
+build/
+*/__pycache__/
+data/
+
+# File
+*.jpeg
+*.jpg
+*.bmp
+*.png
+*.tif
+*.gif
+*.csv
